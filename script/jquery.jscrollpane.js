@@ -273,8 +273,7 @@
 							$('<div class="jspCap jspCapTop" />'),
 							$('<div class="jspTrack" />').append(
 								$('<div class="jspDrag" />').append(
-									$('<div class="jspDragTop" />'),
-									$('<div class="jspDragBottom" />')
+									$('<div class="jspDragHandle" />')
 								)
 							),
 							$('<div class="jspCap jspCapBottom" />')
